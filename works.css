@@ -1,0 +1,62 @@
+.div2{
+    border-radius: 5%;
+    width: 250px;
+    height: 250px;
+    background-color: rebeccapurple;
+    margin-top: 20px;
+    display: inline-block;
+}
+.myWorks{
+    margin-top: 100px;
+    text-align: center;
+    color: white;
+    
+    
+}
+.titleWork{
+    font-size: 30px;
+    margin-top: 20px;
+}
+ #PhotoOne{
+    border-radius: 5%;
+    width: 250px;
+    height: 250px;
+}
+
+.titelDoctor{
+    font-size: 30px;
+    margin-top: 60px;
+
+}
+.div3{
+    border-radius: 5%;
+    display: inline-block;
+    margin-top: 60px;
+    width: 300px;
+    height: 400px;
+    margin-left: 40px;
+    background-color: blueviolet;
+}
+
+.ftor{
+    border-radius: 5%;
+    width: 300px;
+    height: 400px;
+}
+.DoctorName{
+    color: rgb(116, 192, 255);
+    margin-top: 20px;
+    font-size: 30px;
+}
+.clincikName{
+    font-size: 30px;
+    margin-top: 60px;
+}
+.dividi{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aquamarine;
+    width: 700px;
+    height: 700px;
+}
